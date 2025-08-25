@@ -3,9 +3,7 @@
 
 ---
 
-🌟 **About Me**
-- 🎓 2024 Graduate from NIT Raipur, B.Tech in Information Technology  
-- 💻 Front-End Developer @ Mewurk Technologies  
+🌟 **About Me** 
 - 🚀 Currently building: **SkillSphere** – a collaborative skill-sharing platform  
 - 🌱 Learning: **Spring Boot**, aiming to become a **Java Full Stack Developer**  
 - ⚡ Fun Fact: I find peace visiting Hanuman temples & love giving back to the community
@@ -50,8 +48,6 @@
 ---
 
 ### 🤝 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/chaitanyadudi/)
 - 📧 chaitanyareddydudi@gmail.com 
 
 ---
