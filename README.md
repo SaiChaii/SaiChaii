@@ -1,55 +1,59 @@
-<h1 align="center">Hi 👋, I'm Sai Chaitanya Reddy</h1>
-<h3 align="center">A passionate Front-End Developer from Bangalore 🇮🇳, growing into a Java Full Stack Engineer</h3>
+# Sai Chaitanya Dudi
+
+**Backend Engineer** · Java · Spring Boot · Automation
+
+Bangalore, India · [chaitanyareddydudi@gmail.com](mailto:chaitanyareddydudi@gmail.com) · [LinkedIn](https://linkedin.com/in/your-handle)
 
 ---
 
-🌟 **About Me** 
-- 🚀 Currently building: **SkillSphere** – a collaborative skill-sharing platform  
-- 🌱 Learning: **Spring Boot**, aiming to become a **Java Full Stack Developer**  
-- ⚡ Fun Fact: I find peace visiting Hanuman temples & love giving back to the community
+## About
+
+I build backend systems and automation tooling — focused on reliability, clean architecture, and solving real problems. Started in frontend, moved toward backend engineering where I find the hard problems more interesting.
+
+Currently focused on Java ecosystem depth: distributed systems, event-driven architecture, and production-grade automation.
 
 ---
 
-### 🛠️ Languages & Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-purple?style=flat-square&logo=redux)
-![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=spring)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
-![DSA](https://img.shields.io/badge/-DSA-blueviolet?style=flat-square)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+## Projects
+
+### [AutoNaukriUpdater](https://github.com/SaiChaii/AutoNaukriUpdater)
+Automated resume refresh pipeline built with Java, Spring Boot, and Playwright.
+
+- Runs daily via GitHub Actions with a randomized execution window to avoid pattern detection
+- Headless Chromium with bot-evasion: patches `navigator.webdriver`, randomizes mouse movement, character-level typing delays
+- PDF metadata mutation via PDFBox to keep profile ranking signals fresh
+- CI/CD aware — detects `CI` env var to switch between immediate execution (Actions) and dynamic local scheduling
+
+`Java 21` `Spring Boot` `Playwright` `GitHub Actions` `PDFBox` `Maven`
 
 ---
 
-### 📊 GitHub Stats
+### [SkillSphere](https://github.com/SaiChaii/SkillSphere)
+Collaborative skill-sharing platform. Full-stack with React frontend and Spring Boot backend.
 
-<p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=SaiChaii&show_icons=true&theme=radical" />
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiChaii&layout=compact&theme=radical" />
-</p>
+`React` `Redux` `Java` `Spring Boot`
 
 ---
 
-### 🔥 GitHub Streak
+## Stack
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SaiChaii&theme=radical" alt="GitHub Streak Stats" />
-</p>
-
----
-
-### 📈 Profile Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SaiChaii&label=Profile%20views&color=blueviolet&style=flat" alt="SaiChaitanyaReddy" />
-</p>
+| Layer | Technologies |
+|---|---|
+| **Languages** | Java, JavaScript, C++ |
+| **Backend** | Spring Boot, Maven, REST APIs |
+| **Frontend** | React, Redux |
+| **Automation** | Playwright (Java), Cron Scheduling |
+| **DevOps** | GitHub Actions, Docker, Git |
+| **Concepts** | DSA, OOP, Event-driven Architecture |
 
 ---
 
-### 🤝 Let's Connect
-- 📧 chaitanyareddydudi@gmail.com 
+## Currently
+
+- Building toward **SDE / Backend Engineer** roles
+- Strengthening system design and distributed systems fundamentals
+- Open to full-time opportunities in backend or full-stack
 
 ---
 
-_“Code is not just instructions to a machine, it's the language of ideas made real.”_
+*"Make it work, make it right, make it fast."*
