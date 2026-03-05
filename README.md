@@ -1,6 +1,6 @@
 # Sai Chaitanya Dudi
 
-**Full-Stack Engineer** · Java · Spring Boot · Automation
+**Full-Stack Engineer** · Java · Spring Boot · JavaScript . React . Automation
 
 Bangalore, India · [chaitanyareddydudi@gmail.com](mailto:chaitanyareddydudi@gmail.com) · [LinkedIn](https://linkedin.com/in/your-handle)
 
